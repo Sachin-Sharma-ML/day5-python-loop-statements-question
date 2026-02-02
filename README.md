@@ -66,7 +66,7 @@ while num>0:
     num=num//10
     print("Reverse number :",rev)
 
-# palindrome or not using while loop
+# 5 palindrome or not using while loop
 num=int(input("Enter a number:"))
 temp=num
 rev=0
